@@ -1,0 +1,19 @@
+body, html {
+ margin:0;
+ padding:0;
+}
+
+.bg{
+	background-image: url('resources/img/blog/3.jpg');
+	background-repeat: no-repeat;
+	width:100vw;
+	height:100%;
+	background-size: cover;
+
+}
+
+.container{
+	border: 2px solid red;
+	width:100vw;
+	height:150vh;
+}
